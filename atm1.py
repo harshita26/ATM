@@ -136,16 +136,3 @@ QUIT       (Q) \n""")
     else:
         print("*"*15)
         print("RESPONSE NOT VALID \n")
-    
-       
-
-
-
-
-
-
-
-
-
-
-        
